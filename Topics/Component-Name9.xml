@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-10T11:56:09.911Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>组件名称</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">组件名称</para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Fig 1.2_Chp 13.png" scale="60.00%" width="553" height="755" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER13=1%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">冷却剂存储罐（标准）</text></para>
+    <para styleclass="Figure E"></para>
+    <para styleclass="Figure E"><image src="Fig 1.3_Chp 13.png" scale="60.00%" width="601" height="816" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER13=1%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">选配冷却剂存储罐</text></para>
+    <para styleclass="Figure E"></para>
+    <para styleclass="Figure E"><image src="Fig 1.4_Chp 13.png" scale="60.00%" width="447" height="391" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER13=1%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">用于标准机床的集中冷却系统</text></para>
+  </body>
+</topic>

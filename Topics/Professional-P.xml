@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-02-05T14:04:36.119Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Professional P</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Professional P</para>
+    </header>
+    <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">机床控制器 Professional P（Pro P）包括一个数字控制器（FANUC 0i-M 系列）和牧野开发的控制软件。该装置可控制机床自动操作、电控部件、轴伺服电机和主轴电机。</text></para>
+  </body>
+</topic>

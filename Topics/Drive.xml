@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-02-19T14:17:06.973Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>驾驶</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">驾驶</para>
+    </header>
+    <para styleclass="Normal">每个轴都由滚珠丝杠和伺服电机驱动。 轴的运动（速度和定位）由机床控制器控制。</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="2.1.1 Drive flowchart.png" scale="65.00%" width="487" height="789" styleclass="Image Caption" figurelistinclude="0"></image></para>
+  </body>
+</topic>

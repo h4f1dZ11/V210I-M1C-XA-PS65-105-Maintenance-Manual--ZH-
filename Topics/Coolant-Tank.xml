@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-10T12:04:04.063Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>冷却剂存储罐</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">冷却剂存储罐</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">冷却剂存储罐包括一个存储从加工室返回的切削液的罐，以及一个可选配的将切屑排出机床外的滚筒输送机。</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">关于滚筒输送机的细节（参照<link displaytype="text" defaultstyle="false" type="topiclink" href="H1-Chip-Disposal-and-Conveyor" style="color:#0000ff;">&quot;第 12 章 碎屑处理和输送机</link><text style="color:#0000ff;">&quot;）。</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Fig 2.8_Chp 13.png" scale="60.00%" width="579" height="683" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER13=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">冷却剂存储罐</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

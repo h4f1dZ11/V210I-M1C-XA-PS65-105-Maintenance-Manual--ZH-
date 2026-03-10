@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-02-26T08:46:12.047Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>鼓单元</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">鼓单元</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">滚筒装置过滤切削液并将其输送到脏污槽中。 过滤器安装在滚筒装置周围。 位于滚筒装置上的过滤器清洁喷嘴喷出的冲洗冷却液（反冲洗）可清除过滤器中的碎屑。</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">有关滚筒装置反冲洗冷却液的细节 ( &quot;<link displaytype="text" defaultstyle="false" type="topiclink" href="Backwash-Coolant" style="color:#0000ff;">2.3 反冲洗冷却液</link>&quot;)。</para>
+    <para styleclass="Normal" style="margin-bottom:8px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Fig 2.3_Chp 12.png" scale="60.00%" width="530" height="424" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER12=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">鼓单元</text></para>
+  </body>
+</topic>

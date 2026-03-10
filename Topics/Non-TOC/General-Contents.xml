@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-04T14:44:25.866Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../helpproject.xsd">
+  <title>General Contents</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;">General Contents</para>
+    </header>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px; margin-left:5px;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">第 1 章</text><tab /><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">安全</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">记载了安全装置，警告标签，工作和操作注意事项以及确保机床安全操作的其它信息。确保在使用机床之前阅读此章节。</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">第 2 章</text><tab /><text style="font-size:11pt;">器控制器</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">本章介绍机床上安全装置的概述及其检查步骤。如果检查后需要，本章还包括安全装置的调整步骤。</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">第 3 章</text><tab /><text style="font-size:11pt;">机床维护</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">本章介绍机床维护概述和各部件的机构。</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt;"> 第 4 章</text><tab /><text style="font-size:11pt;">主轴头</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">本章介绍主轴头概述以及各部件的机构和调整步骤。</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> 第 5 章</text><tab /><text style="font-size:11pt; color:#1a1a1a;">进给轴</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">本章介绍进给轴概述以及各部件的机构和调整程序。</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> 第 6 章</text><tab /><text style="font-size:11pt; color:#1a1a1a;">自动工具快换装置</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">本章介绍自动换刀装置的概述和各组件的机构。</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> 第 7 章</text><tab /><text style="font-size:11pt; color:#1a1a1a;">主轴冷却器</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">本章介绍主轴油温度控制器装置的概述和各部件的机构。</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> 第 8 章</text><tab /><text style="font-size:11pt; color:#1a1a1a;">自动润滑脂供应装置</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">本章介绍自动润滑脂供应装置的概述和各部件的机构。</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> 第 9 章</text><tab /><text style="font-size:11pt; color:#1a1a1a;">主轴液压单元</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">本章介绍主轴液压单元的概述和各组件的机构。</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> 第 10 章</text><tab /><text style="font-size:11pt; color:#1a1a1a;">夹具液压单元（选配）</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">本章介绍夹具液压单元的概述和各部件的机构。</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> 第 11 章</text><tab /><text style="font-size:11pt; color:#1a1a1a;">气动系统</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">本章介绍气动装置的概述和各部件的机构。</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> 第 12 章</text><tab /><text style="font-size:11pt; color:#1a1a1a;">碎屑处理和输送机</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">本章介绍了碎屑处理、输送机和各部件机构的概况。</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+  </body>
+</topic>

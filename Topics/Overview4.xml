@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-05T16:00:35.402Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>概述</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">概述</para>
+    </header>
+    <para styleclass="Normal">自动润滑脂供应装置向机床部件的驱动装置供应润滑脂。 通过提供润滑脂，可使进给轴的运动更加平稳。 润滑脂自动加注，加注周期在机床参数中设定。 当发出警告时，必须更换润滑脂盒。</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 7.1_PS65.png" scale="60.00%" width="427" height="396" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER3=7%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; </text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">自动润滑脂供应装置</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

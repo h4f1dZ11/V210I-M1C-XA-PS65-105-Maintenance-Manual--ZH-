@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-10T11:56:35.458Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>管道和布线</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">管道和布线</para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Fig 1.5_Chp 13.png" scale="60.00%" width="596" height="719" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER13=1%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">冷却液管道</text></para>
+    <para styleclass="Figure E"></para>
+    <para styleclass="Figure E"><image src="Fig 1.6_Chp 13.png" scale="60.00%" width="573" height="694" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER13=1%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">机床机柜接线（背面）</text></para>
+  </body>
+</topic>

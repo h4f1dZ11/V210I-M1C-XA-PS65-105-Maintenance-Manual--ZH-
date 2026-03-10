@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-05T16:36:20.610Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>概述</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">概述</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">主轴冷却器控制整个机床的冷却液供给温度，其作用如下：</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px;">主轴冷却</li>
+      <li styleclass="Normal" style="margin-bottom:8px;">滚珠丝杠芯冷却</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:8px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Fig 1.1_Chp 7.png" scale="60.00%" width="511" height="389" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER7=1%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; </text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">总则视图</text></para>
+  </body>
+</topic>

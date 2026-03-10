@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-10T08:52:23.682Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>轴伸缩盖</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">轴伸缩盖</para>
+    </header>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">轴伸缩盖可防止切屑和冷却液进入进给轴内侧。 </text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">轴伸缩盖由以下部分组成。</text></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:justify; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left ; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">X 轴伸缩盖：每台机床总共需要两个相同的 X 轴伸缩盖。 每个盖板安装在工作台和鞍座两端的鞍座盖板之间。</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Y 轴伸缩盖：每台机床总共需要两个相同的 Y 轴伸缩盖。 每个盖子都从鞍座安装到各自的前后伸缩框架上，中间夹有密封件以防止泄漏。</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Z 轴伸缩盖：每台机床只需一个 Z 轴伸缩盖。 盖子的一端安装在 Y 轴伸缩架（后部）上，另一端安装在主轴铸件上。</text></li>
+    </list>
+    <para styleclass="" style="text-align:justify; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left ;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 2.1_chp14.2.png" scale="60.00%" width="583" height="512" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER14=2%&gt;.&lt;%HMFIGURECOUNTER=1%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">X，Y 和 Z 伸缩盖</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

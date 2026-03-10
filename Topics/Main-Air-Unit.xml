@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-09T14:15:26.781Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>主空气单元</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">主空气单元</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">主空气装置调节空气供应/切断，将空气压力保持在恒定水平（0.5MPa）。</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">当压力开关 LS905（主空气压力开关）检测到空气压力降至 0.5MPa 以下时，会触发警报，机床进入进给保持开关状态。</para>
+    <para styleclass="Normal">请注意，如果向机床供应的压缩空气不符合必要条件（压缩空气不含尘、湿气或油，等级为 JIS B 8392-1 [ISO 8573-1] 中规定的 ISO 2.5.2），则可能导致气动系统故障。受污染的压缩空气会严重损坏机床的主轴和光栅尺等主要部件。</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 2.1_Chp 11.png" scale="60.00%" width="535" height="396" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER11=2%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">主空气单元</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

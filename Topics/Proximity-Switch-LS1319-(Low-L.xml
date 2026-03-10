@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-10T12:04:20.028Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>接近开关 LS1319（低液位检测）</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">接近开关 LS1319（低液位检测）</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">接近开关 LS1319（低液位检测）安装在液位计上。当切削液液位下降到下限液位以下时，接近开关会检测到狗并按以下顺序触发警报。</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">以下尺寸适用于不使用冷却液的机床。</para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-weight:bold;">警报触发顺序</text></para>
+    <para styleclass="Normal">切削液液位下降，浮球和阀狗下降到下限液位以下。</para>
+    <para styleclass="Normal"> &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;<text styleclass="" style="font-family:Symbol; font-size:11pt; font-weight:bold; color:#000000;">¯</text></para>
+    <para styleclass="Normal">接近开关 LS1319 检测狗（检测切削液液位低）。</para>
+    <para styleclass="Normal"> &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;<text styleclass="" style="font-family:Symbol; font-size:11pt; font-weight:bold; color:#000000;">¯</text> &#160; &#160; &#160; &#160;</para>
+    <para styleclass="Normal">机床控制装置触发 EX1525 号警报</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 2.9_Chp 13.png" scale="60.00%" width="551" height="566" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER13=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">接近开关 LS1319</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

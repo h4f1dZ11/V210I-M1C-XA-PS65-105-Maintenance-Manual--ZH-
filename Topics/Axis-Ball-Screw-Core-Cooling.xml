@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-09T13:38:30.638Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>轴滚珠丝杠芯冷却</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">轴滚珠丝杠芯冷却</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:3px;">X，Y，Z 轴滚珠丝杠由主轴冷却器的冷却液冷却，以尽量减少轴的热膨胀。</para>
+    <para styleclass="Normal">(参照 <link displaytype="text" defaultstyle="false" type="topiclink" href="D--Spindle-Cooler" style="color:#0000ff;">&quot;第 7 章 主轴冷却器</link><text style="color:#0000ff;">&quot;）</text>。</para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

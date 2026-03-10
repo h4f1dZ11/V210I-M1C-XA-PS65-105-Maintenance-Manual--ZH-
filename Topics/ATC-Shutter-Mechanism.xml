@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-09T13:47:14.058Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>自动工具快换装置</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">自动工具快换装置</para>
+    </header>
+    <para styleclass="" style="text-align:left; text-indent:-29px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:29px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">自动工具快门由气动缸开口和关闭。</text></para>
+    <para styleclass="" style="text-align:center; text-indent:-29px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:29px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:center; text-indent:-29px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:29px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Fig 2.6_Chp 6.png" scale="60.00%" width="395" height="750" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER6=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">自动工具快换装置</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"></para>
+    <para styleclass="Figure E" style="margin-bottom:5px;"><image src="Fig 2.7_Chp 6.png" scale="60.00%" width="512" height="732" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER6=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">管道线路</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px; page-break-before:always;"></para>
+  </body>
+</topic>

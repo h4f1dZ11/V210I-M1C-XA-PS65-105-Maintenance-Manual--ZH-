@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-05T16:18:11.861Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>轴配置</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">轴配置</para>
+    </header>
+    <para styleclass="Normal">滚珠丝杠由一个交流伺服电机驱动，该电机与一个电机联轴器相连。 滚珠丝杠由伺服电机驱动旋转，并由支撑轴承支撑（一端固定，另一端支撑）。 下图显示了轴驱动机构（配置）。</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">伺服电机</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:10px;">带有内置绝对式脉冲编码器的交流伺服电机驱动进给轴。Z 轴（重力轴）伺服电机配有制动器。制动器在以下情况下工作</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:1.50; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="line-height:1.50;">电源关开时（再次打开控制电源即可松开制动器）。</li>
+      <li styleclass="Normal" style="line-height:1.50;">按下紧急停止开关时。</li>
+      <li styleclass="Normal" style="line-height:1.50;">伺服放大器处于伺服就绪关闭状态时。</li>
+      <li styleclass="Normal" style="line-height:1.50;">触发伺服警报时。</li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 2.1_Chp 5.png" scale="65.00%" width="663" height="593" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER5=2%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; </text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">轴配置 1</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><image src="Fig 2.2_Chp 5.png" scale="60.00%" width="447" height="594" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER5=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">轴配置 2</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-size:12pt; font-weight:bold;">伺服电机耦合</text></para>
+    <para styleclass="Normal">电机轴和滚珠丝杠通过电机联轴器连接。联轴器由联轴器法兰和扁平弹簧组成。当夹紧螺钉拧紧时，联轴器法兰变形，通过摩擦力将电机轴和滚珠丝杠连接起来。</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 2.3_Chp 5.png" scale="60.00%" width="443" height="259" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER5=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; 伺服电机</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;"> 配置</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"></para>
+    <para styleclass="Normal" style="margin-bottom:10px;"><text style="font-weight:bold;">Miki 滑轮联轴器（选配）的夹紧螺栓拧紧扭矩</text></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="4" colcount="4" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#c0c0c0; alt-row-background-color:none;">
+      <thead style="vertical-align:middle">
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">轴</text></para>
+        </td>
+        <td style="width:40%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">型号</text></para>
+        </td>
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">夹紧螺栓尺寸</text></para>
+        </td>
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">扭矩（牛顿米）</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:middle">
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">X 轴</text></para>
+        </td>
+        <td style="width:40%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">SFC-080SA2-35B-35B</text></para>
+        </td>
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">M8</text></para>
+        </td>
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">30</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Y 轴</text></para>
+        </td>
+        <td style="width:40%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">SFC-080SA2-35B-35B</text></para>
+        </td>
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">M8</text></para>
+        </td>
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">30</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Z 轴</text></para>
+        </td>
+        <td style="width:40%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">SFC-080SA2-35B-35B</text></para>
+        </td>
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">M8</text></para>
+        </td>
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">30</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Figure E" style="text-align:left; margin-bottom:0px;"></para>
+  </body>
+</topic>

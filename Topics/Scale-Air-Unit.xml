@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-02-25T14:39:45.191Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>刻度空气装置</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">刻度空气装置</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">栅尺空气单元可提高栅尺装置内侧的气压，防止切屑和冷却液进入。</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">如果栅尺空气单元压力表读数为 0.1MPa 或更低，请执行以下调整和检查。</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px;">刻度气压调整</li>
+      <li styleclass="Normal" style="margin-bottom:8px;">主空气单元检查</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:8px;"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Fig 2.2_Chp 11.png" scale="60.00%" width="283" height="287" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER11=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">刻度空气装置</text></para>
+  </body>
+</topic>

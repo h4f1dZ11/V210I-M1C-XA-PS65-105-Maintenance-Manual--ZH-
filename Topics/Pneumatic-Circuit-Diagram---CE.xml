@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-02-09T14:18:09.421Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>气动电路图 - CE 机床与选配</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">气动电路图 - CE 机床与选配</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="2.4 Pneumatic Circuit Diagram_11.png" scale="60.00%" width="554" height="832" styleclass="Image Caption" figurelistinclude="0"></image></para>
+  </body>
+</topic>

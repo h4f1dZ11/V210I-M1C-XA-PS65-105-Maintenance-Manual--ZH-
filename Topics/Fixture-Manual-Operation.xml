@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-09T09:14:21.830Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>夹具手动操作</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">夹具手动操作</para>
+    </header>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">有两种手动操作夹具的方法：</text></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass=" " style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass=" " style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"><text style="font-family:SimSun; font-size:11pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">夹具手动操作面板（选配）</text></li>
+      <li styleclass=" " style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"><text style="font-family:SimSun; font-size:11pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">夹具维护屏幕</text></li>
+    </list>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:10px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">标准夹具接口带有标准的夹具维护屏幕。喜欢硬件界面的客户可以单独购买夹具手动操作面板。如果安装了硬件，软件屏幕将被禁用。</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">这两种方法都允许手动控制夹具。不过，软件维护屏幕将为操作员提供更多功能和操作建议。</text></para>
+  </body>
+</topic>

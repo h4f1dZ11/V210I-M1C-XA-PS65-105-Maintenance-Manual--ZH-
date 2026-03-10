@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-09T14:28:54.826Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>滚筒输送机（选配）</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">滚筒输送机（选配）</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">滚筒输送机将切屑分离并将切削液排出机床，然后将切削液返回脏槽。</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">然后，脏槽中的切削液通过鼓式装置过滤器进行过滤，并转移到初级（半清洁）槽中。</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">有关切削液的详细信息（<link displaytype="text" defaultstyle="false" type="topiclink" href="Cutting-Fluid-Supply-Unit-and-" style="color:#0000ff;">&quot;第 13 章 切削液供给装置和储液罐&quot;</link>）。</para>
+    <para styleclass="Normal" style="margin-bottom:8px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Fig 2.2_Chp 12.png" scale="60.00%" width="463" height="360" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER12=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">滚筒输送机（选配）</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

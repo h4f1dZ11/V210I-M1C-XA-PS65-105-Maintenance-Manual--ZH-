@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-10T09:09:46.033Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>手动覆盖</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">手动覆盖</para>
+    </header>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">在关闭机床电源的情况下，使用螺丝刀将门锁开关从锁 </text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[锁定]</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> 位置转到</text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;"> [解锁] </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">位置，即可解除门锁并打开门。 当门锁开关设置为 </text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[解锁] </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> 时，即使关上门，门也无法锁定，机床也无法操作。</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">手动超控后，请务必确认门锁开关已回到 </text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[锁定]</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> 位置。</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Fig 4.5_chp14.4.png" scale="60.00%" width="453" height="488" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER14=4%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">手动覆盖</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

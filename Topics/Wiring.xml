@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-05T16:31:35.555Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>布线</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">布线</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 1.4_Chp 6.png" scale="60.00%" width="569" height="514" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER6=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">布线路线</text></para>
+  </body>
+</topic>

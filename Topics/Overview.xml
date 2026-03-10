@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-02-05T13:38:37.832Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>概述</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">概述</para>
+    </header>
+    <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">机床控制器根据 NC 程序和软件中的指令控制机床。它与机床柜通信，控制机床中的每个设备。机床电气柜 (MTC) 内装有驱动每个装置和其他设备的电气元件。</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 1.1 MTC.png" scale="30.00%" width="511" height="434" styleclass="Image Caption" figurelistinclude="0"></image><text styleclass="Image Caption">&#32;</text></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">概述</text></para>
+  </body>
+</topic>

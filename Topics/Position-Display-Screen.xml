@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-05T12:04:59.769Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>位置显示屏幕</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">位置显示屏幕</para>
+    </header>
+    <para styleclass="Normal"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">按 &#160;MDI 面板上的 </text><text styleclass="" style="font-family:SimSun; font-size:11pt; font-weight:bold; color:#000000;">[POS]</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;"> 键可在位置显示屏幕上显示下列屏幕。每个屏幕的选择按钮（软键）如下所述。</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="2.1 Position Display Screen_1.png" scale="30.00%" width="521" height="126" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="7" colcount="3" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#c0c0c0; alt-row-background-color:none;">
+      <thead style="vertical-align:middle">
+        <td style="width:10%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">编号</para>
+        </td>
+        <td style="width:25%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">按钮</para>
+        </td>
+        <td style="width:65%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">说明</para>
+        </td>
+      </thead>
+      <tr style="vertical-align:middle">
+        <td style="width:10%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">1</para>
+        </td>
+        <td style="width:25%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">绝对</para>
+        </td>
+        <td style="width:65%; height:25px;">
+          <para styleclass="Normal" style="margin-right:2px; margin-left:2px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">选择绝对坐标显示屏幕。</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:10%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">2</para>
+        </td>
+        <td style="width:25%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">相对</para>
+        </td>
+        <td style="width:65%; height:25px;">
+          <para styleclass="Normal" style="margin-right:2px; margin-left:2px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">选择相对坐标显示屏幕。</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:10%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">3</para>
+        </td>
+        <td style="width:25%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">全部</para>
+        </td>
+        <td style="width:65%; height:25px;">
+          <para styleclass="Normal" style="margin-right:2px; margin-left:2px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">选择整体坐标显示屏幕。</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:10%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">4</para>
+        </td>
+        <td style="width:25%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">处理</para>
+        </td>
+        <td style="width:65%; height:25px;">
+          <para styleclass="Normal" style="margin-right:2px; margin-left:2px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">选择手动操作手柄中断的操作屏幕。</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:10%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">6</para>
+        </td>
+        <td style="width:25%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">监控</para>
+        </td>
+        <td style="width:65%; height:25px;">
+          <para styleclass="Normal" style="margin-right:2px; margin-left:2px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">选择显示伺服轴负载表和串行主轴负载表的屏幕。</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:10%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">5,10</para>
+        </td>
+        <td style="width:25%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">(OPRT)</para>
+        </td>
+        <td style="width:65%; height:25px;">
+          <para styleclass="Normal" style="margin-right:2px; margin-left:2px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">操作选择按键。</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+    <para styleclass="Normal"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">按 </text><text styleclass="" style="font-family:SimSun; font-size:11pt; font-weight:bold; color:#000000;">[POS]</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;"> 键后的转换顺序。</text></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="2.1 Position Display Screen_2.png" scale="30.00%" width="521" height="738" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-10T11:43:02.643Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>防溅板主侧盖</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">防溅板主侧盖</para>
+    </header>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">标准机床（PS105）两侧的防溅板主侧盖可以解锁并推入加工室。 这有助于在需要搬迁时减少机床宽度。 宽度减小后，可轻松进入标准尺寸的装运集装箱。</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Body_E_11mm_procedure"><text style="font-size:11pt;">缩小机床宽度程序 </text></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="font-family:SimSun; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">依次取下位于鞍座两端的以下盖板。</text></li>
+    </list>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="1+_11mm" style="line-height:1.00; font-family:SimSun; font-size:11pt; color:#000000;">
+      <li styleclass="1+_11mm" style="line-height:1.00;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">卸下鞍座两端和 X 轴伸缩盖后，继续卸下工作台前后盖。</text></li>
+    </list>
+    <para styleclass="Normal" style="text-indent:-26px; margin-top:6px; margin-left:74px; line-height:1.18;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-top:6px; line-height:1.18;"><image src="Fig 3.2_chp14.3.png" scale="60.00%" width="605" height="449" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-top:6px; line-height:1.18;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER14=3%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">马鞍套，伸缩套和工作台套</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px; page-break-before:always;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="1+_11mm" style="margin-top:0px; font-family:SimSun; font-size:11pt; color:#000000;">
+      <li styleclass="1+_11mm" style="margin-top:0px;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">卸下 X 轴伸缩盖支撑杆。 将杆向内移动一个螺距，然后重新安装。</text></li>
+    </list>
+    <para styleclass="1+_11mm" style="text-align:center; text-indent:0px; margin-top:0px; margin-left:0px; line-height:1.00;"></para>
+    <para styleclass="1+_11mm" style="text-align:center; text-indent:0px; margin-top:0px; margin-bottom:5px; margin-left:0px; line-height:1.00;"><image src="Fig 3.3_chp14.3.png" scale="60.00%" width="604" height="785" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER14=3%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">X 轴伸缩式盖板支撑杆</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px; page-break-before:always;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="1+_11mm" style="margin-top:0px; line-height:1.00; font-family:SimSun; font-size:11pt; color:#000000;">
+      <li styleclass="1+_11mm" style="margin-top:0px; line-height:1.00;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">重新安装工作台前盖，然后使用工作台锁定支架锁定工作台，如下图所示。 使用 X 轴伸缩盖锁定支架压紧并锁定 X 轴伸缩盖。 对 Y 轴伸缩盖进行同样的操作。</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:5px;"><image src="Fig 3.4_chp14.3.png" scale="53.00%" width="467" height="393" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER14=3%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">用于鞍座，工作台和轴伸缩盖的锁定支架</text></para>
+    <para styleclass="Normal"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="1+_11mm" style="margin-top:0px; line-height:1.00; font-family:SimSun; font-size:11pt; color:#000000;">
+      <li styleclass="1+_11mm" style="margin-top:0px; line-height:1.00;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">继续安装机床两侧的主侧盖导向杆。</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:5px;"><image src="Fig 3.5_chp14.3.png" scale="60.00%" width="494" height="371" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER14=3%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">主侧盖导向杆</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px; page-break-before:always;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="1+_11mm" style="margin-top:0px; line-height:1.00; font-family:SimSun; font-size:11pt; color:#000000;">
+      <li styleclass="1+_11mm" style="margin-top:0px; line-height:1.00;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">卸下相关盖板和支架。 完成后，从机床外侧将两侧盖向内推。</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 3.6_chp14.3.png" scale="60.00%" width="568" height="572" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER14=3%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">底盖和安装螺钉</text></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="1+_11mm" style="margin-top:0px; line-height:1.00; font-family:SimSun; font-size:11pt; color:#000000;">
+      <li styleclass="1+_11mm" style="margin-top:0px; line-height:1.00;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">卸下机腔右侧的安装螺钉和盖子。</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 3.7_chp14.3.png" scale="60.00%" width="586" height="586" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER14=3%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">盖板，支架和安装螺钉加工腔内侧（右侧）</text></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="1+_11mm" style="margin-top:0px; line-height:1.00; font-family:SimSun; font-size:11pt; color:#000000;">
+      <li styleclass="1+_11mm" style="margin-top:0px; line-height:1.00;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">卸下加工室左侧的安装螺钉和盖子。</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 3.8_chp14.3.png" scale="60.00%" width="596" height="606" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER14=3%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">盖板，支架和安装螺钉加工腔内侧（左侧）</text></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="1+_11mm" style="margin-top:0px; line-height:1.00; font-family:SimSun; font-size:11pt; color:#000000;">
+      <li styleclass="1+_11mm" style="margin-top:0px; line-height:1.00;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">在两个主侧盖均未上锁且所有其他相关盖板均已拆下的情况下，可将它们从外部向机床中心向内推。 安装门和主侧盖锁托架，将它们锁定到位。</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 3.9_chp14.3.png" scale="60.00%" width="553" height="545" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER14=3%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">主侧盖已解锁和锁定</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px; page-break-before:always;"></para>
+  </body>
+</topic>

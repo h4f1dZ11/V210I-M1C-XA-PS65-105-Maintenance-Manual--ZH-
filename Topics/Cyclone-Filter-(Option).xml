@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-10T12:02:50.056Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>旋风过滤器（选配）</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">旋风过滤器（选配）</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">安装旋风过滤器（用于 TSC）是为了保护旋转接头和泵免受切屑和其他污染物的影响。</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">旋风式过滤器利用离心力冲出细小的碎屑。然后，这些碎屑悬浮在外面并沉淀下来，与冷却液分离。</para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Fig 2.7_Chp 13.png" scale="60.00%" width="475" height="541" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER13=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">旋风过滤器（选配）</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

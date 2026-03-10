@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-02-25T16:45:15.618Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>冲洗冷却液</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">冲洗冷却液</para>
+    </header>
+    <para styleclass="Normal">切削过程中产生的切屑由切削液冲洗。 切削液和切屑的混合物通过冲洗冷却液转移到机床后侧的切屑桶或 LUCC。 切削液和切屑在此分离，切削液在同一循环中重复使用。</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 2.1_Chp 12.png" scale="60.00%" width="592" height="722" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER12=2%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">冲洗冷却液</text></para>
+  </body>
+</topic>

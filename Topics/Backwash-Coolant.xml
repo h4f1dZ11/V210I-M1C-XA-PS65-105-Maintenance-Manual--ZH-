@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-10T11:57:29.214Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>反冲洗冷却液</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">反冲洗冷却液</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">反冲洗冷却液在滚筒装置内的功能是清除粘附在滚筒装置过滤器上的切屑，以防止滚筒输送机堵塞。</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">当卷筒输送机冷却剂泵（M71）运行时，反冲洗冷却剂排出，当卷筒输送机运行时，反冲洗冷却剂停止。</para>
+    <para styleclass="Normal" style="margin-bottom:8px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Fig 2.4_Chp 13.png" scale="60.00%" width="490" height="598" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER13=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">反冲洗冷却液</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

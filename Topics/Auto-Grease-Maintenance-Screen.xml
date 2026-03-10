@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" status="Needs Review" modified="2026-03-10T11:07:22.261Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>汽车润滑脂保养屏幕</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">汽车润滑脂保养屏幕</para>
+    </header>
+    <para styleclass="Normal">下面的 &quot;自动润滑脂维护&quot; 屏幕显示每个轴或主轴的润滑脂间隔时间和当前运行时间。</para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:left; text-indent:14px; margin-top:0px; margin-right:0px; margin-bottom:10px; margin-left:48px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:57px left ;"><text styleclass="" style="font-family:SimSun; font-size:12pt; font-weight:bold; color:#000000;">显示程序</text></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:justify; text-indent:-27px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:89px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:200px left ; font-family:SimSun; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:-27px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:89px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:200px left ;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">按 MDI 面板上的 </text><text styleclass="" style="font-family:SimSun; font-size:11pt; font-weight:bold; color:#000000;">[自定义2] </text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">键。</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:-27px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:89px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:200px left ;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">按导航菜单屏幕上的 </text><text styleclass="" style="font-family:SimSun; font-size:11pt; font-weight:bold; color:#000000;">[维护菜单]</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;"> 软键。</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:-27px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:89px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:200px left ;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">选择 </text><text styleclass="" style="font-family:SimSun; font-size:11pt; font-weight:bold; color:#000000;">[冷却液管理]</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">。</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:-27px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:89px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:200px left ;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">按下 </text><text styleclass="" style="font-family:SimSun; font-size:11pt; font-weight:bold; color:#000000;">[自动润滑脂]</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;"> 软键。</text></li>
+    </list>
+    <para styleclass="" style="text-align:justify; text-indent:14px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:48px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">显示 &quot;自动油脂维护&quot; 屏幕。</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:14px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:48px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Fig 7.2_PS65.png" scale="60.00%" width="422" height="319" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER3=7%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; </text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">自动油脂维护屏幕</text></para>
+    <para styleclass="Figure E" style="text-align:left; margin-bottom:14px; page-break-before:always;"><text styleclass="" style="font-family:SimSun; font-size:11pt; font-weight:bold; color:#000000;">显示内容</text></para>
+    <para styleclass="Figure E"><table rowcount="4" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:middle">
+        <td style="width:10%; height:35px;">
+          <para styleclass="Normal" style="text-align:center;">(1)</para>
+        </td>
+        <td style="height:35px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:12pt; font-weight:bold; color:#000000;">I/O 状态显示</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">该区域显示润滑油类型自动润滑脂组件 I/O 的当前状态。</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:10%; height:35px;">
+          <para styleclass="Normal" style="text-align:center;">(2)</para>
+        </td>
+        <td style="height:35px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:12pt; font-weight:bold; color:#000000;">初始填充模式</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">操作员可在首次设置新机床时设置初始填充次数。 初始填充模式可以启用，直到计数为 0。</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:10%; height:35px;">
+          <para styleclass="Normal" style="text-align:center;">(3)</para>
+        </td>
+        <td style="height:35px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:12pt; font-weight:bold; color:#000000;">泵计数</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">该区域显示已执行自动注油的总自动注油时间以及参数 MC07006 (ATGRMXCT) 设置的自动注油最大计数。 如果总时间达到最大计数，则会出现警报 (AL1586) 或警告 (WR2027)，即自动注脂计数超限。</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:10%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">(4)</para>
+        </td>
+        <td style="height:25px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:12pt; font-weight:bold; color:#000000;">计时显示</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">该区域显示:</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+          <para styleclass="" style="text-align:left; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:28px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">1) </text><text styleclass="" style="font-family:SimSun; font-size:11pt; font-weight:bold; color:#000000;">泵暂停时间：</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;"> 两个连续自动注油过程之间的时间间隔。 时间显示基于正常模式还是初始注油模式。 在正常模式下，可通过参数 MC07025（AGPTM1）设置暂停时间；在初始加注模式下，可通过参数 MC07026（AGPTM2）设置暂停时间。</text></para>
+          <para styleclass="" style="text-align:left; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+          <para styleclass="" style="text-align:left; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:28px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">2) </text><text styleclass="" style="font-family:SimSun; font-size:11pt; font-weight:bold; color:#000000;">距离下一循环的时间：</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">显示下一个自动注油过程的剩余时间。</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

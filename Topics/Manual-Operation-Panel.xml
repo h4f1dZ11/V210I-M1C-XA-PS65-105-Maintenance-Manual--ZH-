@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" status="Needs Review" modified="2026-03-09T09:35:51.743Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>手动操作面板</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">手动操作面板</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:10px;">手动操作的控制项目如下：</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">操作模式</text></li>
+      <li styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">夹具</text></li>
+      <li styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">辅助夹具</text></li>
+      <li styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">自动门</text></li>
+      <li styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:10px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">夹具冷却剂</text></li>
+    </list>
+    <para styleclass="Normal">同一时间只能启用（控制）一个项目。按下按钮选择项目。按钮启用后将以黄色高亮显示。</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:5px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">-注-</text></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#32;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:5px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ; font-family:SimSun; font-size:10pt; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:5px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">根据机器配置，某些控制项目可能不存在。</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:5px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">只有当屏幕处于 &quot;解锁 &quot;模式时，才能选择控制项目。</text></li>
+    </list>
+    <para styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:5px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ;"></para>
+    <para styleclass="Normal">每个控制项目都有一对指示灯和控制按钮。 只有在选择相应项目时，控制按钮才会启用。</para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#32;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ; font-family:SimSun; font-size:12pt; font-weight:bold; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ;"><text styleclass="" style="font-family:SimSun; font-size:12pt; font-weight:bold; color:#000000;">运行模式</text></li>
+    </list>
+    <para styleclass="Normal"><table rowcount="4" colcount="2" style="width:auto; cell-padding:5px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">自动灯</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:如果灯变绿，表示夹具处于自动模式</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">手动灯</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:如果灯变为红色，表示夹具处于手动模式</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">自动按钮</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:将夹具模式切换为自动</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">手动按钮</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:将夹具模式切换为手动开关</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ;"></para>
+    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#32;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ; font-family:SimSun; font-size:12pt; font-weight:bold; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ;"><text styleclass="" style="font-family:SimSun; font-size:12pt; font-weight:bold; color:#000000;">夹具</text></li>
+    </list>
+    <para styleclass="Normal"><table rowcount="4" colcount="2" style="width:auto; cell-padding:5px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">夹钳</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:如果灯变为绿色，则表示夹具已夹紧</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">松开灯</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:如果灯变为红色，表示夹具已松开</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">夹紧按钮</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:手动执行夹具夹紧</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">松开按钮</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:手动松开夹具</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <list id="4" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#32;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="3" styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ; font-family:SimSun; font-size:12pt; font-weight:bold; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ;"><text styleclass="" style="font-family:SimSun; font-size:12pt; font-weight:bold; color:#000000;">辅助夹具</text></li>
+    </list>
+    <para styleclass="Normal"><table rowcount="4" colcount="2" style="width:auto; cell-padding:7px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">夹钳</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:如果灯变为绿色，则表示辅助夹具已夹紧</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">松开灯</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:如果灯变为红色，则表示夹具已松开</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">夹紧按钮</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:手动执行辅助夹具夹紧</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">松开按钮</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:手动执行辅助夹具松开</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-before:always; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ;"></para>
+    <list id="5" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#32;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="4" styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ; font-family:SimSun; font-size:12pt; font-weight:bold; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ;"><text styleclass="" style="font-family:SimSun; font-size:12pt; font-weight:bold; color:#000000;">自动门</text></li>
+    </list>
+    <para styleclass="Normal"><table rowcount="4" colcount="2" style="width:auto; cell-padding:7px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">开口灯</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:如果灯变为红色，则表示自动门已开口</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">关闭灯</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:如果灯变为绿色，则表示自动门已关闭</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">开口按钮</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:手动执行自动门开口</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">关闭按钮</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:手动执行自动关门</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ;"></para>
+    <list id="6" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#32;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="5" styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ; font-family:SimSun; font-size:12pt; font-weight:bold; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ;"><text styleclass="" style="font-family:SimSun; font-size:12pt; font-weight:bold; color:#000000;">夹具冷却液</text></li>
+    </list>
+    <para styleclass="Normal"><table rowcount="4" colcount="2" style="width:auto; cell-padding:7px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">开灯</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:如果灯变为红色，则表示夹具冷却剂已打开</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">灯灭</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:如果灯变绿，表示夹具冷却液关闭</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">开按钮</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:手动打开夹具冷却液</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:107px; height:25px; border:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">关闭按钮</text></para>
+        </td>
+        <td style="width:476px; height:25px; border:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">:手动关闭夹具冷却液</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:justify; text-indent:-25px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:25px; line-height:1.00; background-color:transparent; white-space:normal; page-break-before:always; page-break-inside:auto; page-break-after:auto; border:none; tabstops:25px left ;"></para>
+    <para styleclass="" style="text-align:left; text-indent:14px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:57px left ;"><text styleclass="" style="font-family:SimSun; font-size:12pt; font-weight:bold; color:#000000;">夹具手动夹紧程序</text></para>
+    <para styleclass="" style="text-align:left; text-indent:14px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:57px left ;"></para>
+    <list id="7" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:justify; text-indent:-27px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:89px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:200px left ; font-family:SimSun; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:-27px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:89px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:200px left ;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">按 </text><text styleclass="" style="font-family:SimSun; font-size:11pt; font-weight:bold; color:#000000;">[锁] </text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">软键</text><text styleclass="" style="font-family:SimSun; font-size:11pt; font-weight:bold; color:#000000;">&#32;</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">解锁夹具手动控制。</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:-27px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:89px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:200px left ;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">按 </text><text styleclass="" style="font-family:SimSun; font-size:11pt; font-weight:bold; color:#000000;">[夹具] </text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">按钮，按照 &quot;维护建议&quot; 满足手动夹具控制的要求。</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:-27px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:89px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:200px left ;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">按 </text><text styleclass="" style="font-family:SimSun; font-size:11pt; font-weight:bold; color:#000000;">[夹型]</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;"> 按钮进行手动夹具夹紧。</text></li>
+    </list>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:200px left ;"></para>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:200px left ;"><image src="Fig 4.4_PS65.png" scale="65.00%" width="526" height="393" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><anchor id="Fig4.4" styleclass="Normal" style="font-size:11pt;"></anchor><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER3=4%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">夹具手动操作程序</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

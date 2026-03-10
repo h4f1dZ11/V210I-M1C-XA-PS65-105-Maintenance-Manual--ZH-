@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-05T08:58:08.499Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.4.2 Labels</title>
+  <meta name="DESCRIPTION" translate="true" value="Update stickers" />
+  <keywords>
+    <keyword>#MECHOK</keyword>
+    <keyword>#STICKERS</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading4">标签</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Labels.png" scale="80.00%" width="701" height="1368" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:justify; margin-bottom:8px;"><text style="font-size:10pt;">-注-</text></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:justify; text-indent:-21px; margin-bottom:8px; margin-left:21px; font-family:Arial; font-size:10pt; color:#000000;">
+      <li styleclass="Normal" style="text-align:justify; text-indent:-21px; margin-bottom:8px; margin-left:21px;"><text style="font-size:10pt;">根据型号和规格的不同，警告标签的位置和类型也有所不同（如上图所示）。</text></li>
+    </list>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Normal" style="text-align:justify; font-family:Arial; font-size:10pt; color:#000000;">
+      <li styleclass="Normal" style="text-align:justify;"><text style="font-size:10pt;">在实际机床上确认警告标签。</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:justify; page-break-before:always;"></para>
+  </body>
+</topic>

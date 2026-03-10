@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-09T12:21:31.291Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>管道和布线</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">管道和布线</para>
+    </header>
+    <para styleclass="Normal">机床控制器部件的配管和接线参照第 2 章，图 1.2。</para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 1.2_Chp 5.png" scale="55.00%" width="544" height="564" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER5=1%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">管道线路 1</text></para>
+    <para styleclass="Figure E"></para>
+    <para styleclass="Figure E"><image src="Fig 1.3_Chp 5.png" scale="53.00%" width="482" height="566" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER5=1%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">管道线路 2</text></para>
+    <para styleclass="Figure E"></para>
+    <para styleclass="Figure E"><image src="Fig 1.4_Chp 5.png" scale="50.00%" width="468" height="600" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER5=1%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">线路 1</text></para>
+    <para styleclass="Figure E"></para>
+    <para styleclass="Figure E"><image src="Fig 1.5_Chp 5.png" scale="50.00%" width="458" height="519" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER5=1%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">线路 2</text></para>
+    <para styleclass="Figure E"></para>
+    <para styleclass="Figure E"><image src="Fig 1.6_Chp 5.png" scale="50.00%" width="487" height="384" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER5=1%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">布线路线 3</text></para>
+  </body>
+</topic>

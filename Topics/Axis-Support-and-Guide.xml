@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-03-09T13:39:46.681Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>轴支持和指南</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">轴支持和指南</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:7px;">每个轴由两个直线运动导轨引导和支撑。 其中一个直线运动导轨是参照导轨，另一个是从动导轨。(参照<link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig2.7" style="color:#0000ff;">图 2.7</link>）。</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:7px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:7px;">直线运动导轨 </li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:7px;">直线运动导轨由滑块和导轨组成。 直线运动导轨通过平行销沿导轨安装肩调整，并通过安装螺钉固定。</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:7px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:7px;">马车</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:7px;">X 滑块、Y 横滑块和 Z 主轴滑枕安装在这些滑架上。</para>
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:7px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:7px;">轨道</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:7px;">每个轴使用两个直线导轨。</para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:7px;"><image src="Fig 2.7_Chp 5.png" scale="60.00%" width="599" height="746" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><anchor id="Fig2.7" styleclass="Normal" style="font-size:11pt;"></anchor><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER5=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">轴支持和指南 </text></para>
+  </body>
+</topic>
